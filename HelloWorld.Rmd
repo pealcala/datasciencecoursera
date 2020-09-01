@@ -1,0 +1,18 @@
+---
+title: "HelloWorld"
+author: "Pedro Alcalá"
+date: "9/1/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Este es un archivo Markdown 
+Creado para el proyecto final del curso de herramientas del *Científico de Datos* del programa **Data Science de Coursera y la Universidad Johns Hopkins**, definitivamente un curso de referencia para cualquier profesional que se dedica a esta labor que ya se vuelve un requerimiento para cualquier empresa disponer de este perfil para encontrar valor para el negocio a partir de los datos.
+
+**Saludos**
+
+
+
